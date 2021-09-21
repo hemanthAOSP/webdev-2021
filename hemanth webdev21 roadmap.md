@@ -1,7 +1,7 @@
 
 
-hemanth/webdev21/roadmap/week through roadmap
-
+     hemanth/webdev21/roadmap/week through roadmap
+  
 
 Week 1 & 2
 ==========
@@ -83,7 +83,7 @@ There is not a single programming interview where they don't ask about data stru
 fundamental building blocks of any program (doesn't matter which programming language). Follow this playlist 
 to get your data structure concepts clear.
 
-Harsha Suryanarayana/hemanth/dsa: https://www.youtube.com/watch?v=B31LgI4Y4DQ
+hemanth/Harsha Suryanarayana/dsa: https://www.youtube.com/watch?v=B31LgI4Y4DQ
 
 
 Week 7 & 8
@@ -149,4 +149,5 @@ Useful Resources & Tips
 ### Group Study
 will create discord if possible soon!
 #### Following discipline and not giving up
+
 
